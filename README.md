@@ -47,19 +47,19 @@ pip install -r requirements.txt
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/telegram-command-bot.git
+git clone https://github.com/Jhon2Doe/commands-runner-telegram.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd telegram-command-bot
+cd commands-runner-telegram
 ```
 
 3. Install the required dependencies:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 4. Replace `'YOUR_API_TOKEN'` in the `bot.py` script with the API token you obtained from BotFather.
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 1. Run the bot by executing the following command:
 
 ```
-python bot.py
+python3 bot.py
 ```
 
 2. Open Telegram and search for your bot (the one you created using BotFather).
