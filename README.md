@@ -1,4 +1,3 @@
-Sure! Below is a sample GitHub README for the Telegram bot code:
 
 # Telegram Bot for Running Commands on Your Computer
 
